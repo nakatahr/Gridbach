@@ -4,7 +4,7 @@
 -->
   <div class="logo">
     <a href="http://www.creative-tim.com" class="simple-text logo-normal">
-      <img src="{{ asset('assets/img/gridbach-white.png') }}" width="60" alt="">
+      <img src="{{ asset('assets/img/gridbach-w.png') }}" width="60" alt="">
       {{ __('Gridbach') }}
     </a>
   </div>
