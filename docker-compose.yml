@@ -23,7 +23,7 @@ services:
             - sail
         depends_on:
             - mysql
-            - phpmyadmin
+            # - phpmyadmin
             # - redis
             - meilisearch
             - mailpit
